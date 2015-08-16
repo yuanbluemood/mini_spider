@@ -9,9 +9,11 @@
 """
 This module provide log parse methon.
 
+File: lib/log.py
 Author: liuchangfu(liuchangfu@baidu.com)
 Date: 2015/08/16 11:43:22
 """
+
 import os
 import logging
 import logging.handlers
