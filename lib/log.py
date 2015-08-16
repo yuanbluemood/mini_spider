@@ -9,7 +9,7 @@
 """
 This module provide log parse methon.
 
-Author: baidu(baidu@baidu.com)
+Author: liuchangfu(liuchangfu@baidu.com)
 Date: 2015/08/16 11:43:22
 """
 import os

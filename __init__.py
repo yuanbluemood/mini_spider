@@ -8,7 +8,7 @@
  
 """
 File: __init__.py
-Author: baidu(baidu@baidu.com)
+Author: liuchangfu(liuchangfu@baidu.com)
 Date: 2015/08/16 10:49:12
 """
 
